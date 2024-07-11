@@ -55,3 +55,6 @@ When the application starts, it should display the following options:
 - Show transaction history of the accounts of:
   - Juan
   - Pepito
+
+## Punto Singular Web page
+[Punto Singular](https://puntosingular.com)
